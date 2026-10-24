@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["P6NRV3R7TA.com.deja.glasses"],
+        "components": [
+          { "/": "/deja/link/*", "comment": "Meta AI returns here after approving Deja" },
+          { "/": "/deja/link", "comment": "Same, without a trailing path" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["P6NRV3R7TA.com.deja.glasses"]
+  }
+}
